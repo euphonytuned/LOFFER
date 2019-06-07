@@ -128,7 +128,7 @@ ul {
   > li:before {
     content: "\2022";
     padding-right: $ul-bullets-right-space;
-    font-family: $ul-bullets-font;
+    font-family: Monaco;
     font-size: $ul-bullets-font-size;
     line-height: $ul-bullets-font-line-height;
   }
@@ -141,7 +141,7 @@ ol {
     counter-increment: section;
     content: counter(section) ".";
     padding-right: $ol-bullets-right-space;
-    font-family: $ol-bullets-font;
+    font-family: Monaco;
     font-size: $ol-bullets-font-size;
     line-height: $ol-bullets-font-line-height;
   }

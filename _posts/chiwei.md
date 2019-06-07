@@ -6,7 +6,6 @@ Author: 异调同步
 categories: 白灿
 tags: [EXO, 白灿]
 
-comments: true
 --- 
 
 
